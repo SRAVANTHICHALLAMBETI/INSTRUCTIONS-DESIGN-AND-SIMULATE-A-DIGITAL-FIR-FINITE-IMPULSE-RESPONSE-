@@ -145,3 +145,7 @@ Conclusion
 
 This project demonstrates how to implement and simulate a digital FIR filter using Verilog. The Vivado design suite simplifies hardware design and simulation, providing powerful tools to visualize signal behavior. The design of such digital filters is crucial for modern embedded and DSP systems, bridging theory with practical hardware implementation.
 
+#OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/144d7bb0-6d3c-4200-865a-703ded7f1495" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8dcee10d-1565-4c35-a424-bb794a53bf1d" />
